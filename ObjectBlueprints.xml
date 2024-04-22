@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="GradSymposium" Inherits="Book">
+    <part Name="Render" DisplayName="{{nectar|SETS Grad Student Symposium}}" Tile="Items/sw_book_3.bmp" TileColor="&amp;W" DetailColor="g" />
+    <part Name="Book" ID="TheatreOfMutation"/>
+    <part Name="Description" Short="TODO!"/>
+    <part Name="Commerce" Value="99999" />
+  </object>
+</objects>
