@@ -27,6 +27,33 @@ Inspired by:
 &#x07; Semitic folklore and mythology
 &#x07; Pulpy '80s tabletop roleplaying games
 &#x07; Classic roguelike videogames
+        </page>
+        <page>
+                        {{M|Introducing}} {{W|Caves of Qud}}{{M|...}}
+
+
+Inspired by:
+&#x07; New Wave science fantasy literature
+&#x07; Semitic folklore and mythology
+&#x07; Pulpy '80s tabletop roleplaying games
+&#x07; Classic roguelike videogames
+
+
+Roguelike videogames are traditionally characterized by:
+&#x07; Procedurally generated levels
+&#x07; Text-based or very minimal graphics
+&#x07; Simulation-driven turn-based gameplay on a 2D grid
+&#x07; Playing many distinct runs punctuated by player-character death
+        </page>
+        <page>
+                        {{M|Introducing}} {{W|Caves of Qud}}{{M|...}}
+
+
+Inspired by:
+&#x07; New Wave science fantasy literature
+&#x07; Semitic folklore and mythology
+&#x07; Pulpy '80s tabletop roleplaying games
+&#x07; Classic roguelike videogames
 
 
 Roguelike videogames are traditionally characterized by:
@@ -75,9 +102,37 @@ On top of the huge possibility space of the game's simulation and procedural gen
 &#x07; Genders and pronouns
 &#x07; Conversation scripts
 &#x07; ...etc.
+        </page>
+        <page>
+                          {{M|Openness to modification}}
+
+
+{{W|Qud}} is a game already very thematically concerned with mutation.
+
+
+On top of the huge possibility space of the game's simulation and procedural generation systems, text files can be used to add, remove, or modify:
+&#x07; Physical objects
+&#x07; Creatures and their body plans
+&#x07; Locations
+&#x07; Social groups and relationships
+&#x07; Genders and pronouns
+&#x07; Conversation scripts
+&#x07; ...etc.
 
 
 {{Y|Is there a theoretical framework we can use to make sense of this extreme capacity for mutation in what is still a very narrative and textual videogame, while still retaining any specificity about it as an artwork?}}
+        </page>
+        <page>
+                          {{M|Theatre of the Oppressed}}
+
+
+                    Augusto Boal: {{Y|Theatre of the Oppressed}}
+
+                                    &#x19;&#x19;&#x19;
+
+    Gonzalo Frasca: {{Y|Videogames of the Oppressed}}, Simulation versus Narrative
+
+                            {{M|"simulational media"}}
         </page>
         <page>
                           {{M|Theatre of the Oppressed}}
@@ -106,12 +161,74 @@ On top of the huge possibility space of the game's simulation and procedural gen
 
 "The forum theater, one of [Boal's] most popular techniques, re-enacts the same play several times by allowing different audience members to get into the stage and take the protagonist's role[…] improvising possible solutions to the problem that is being staged… Forum theater perfectly fits the definition of simulation: it models a system (the oppressive situation) through another system (the play)[…]
 
+
+
+
+
+
+
+                        - Gonzalo Frasca, Simulation versus Narrative
+        </page>
+        <page>
+                          {{M|Theatre of the Oppressed}}
+
+
+"The forum theater, one of [Boal's] most popular techniques, re-enacts the same play several times by allowing different audience members to get into the stage and take the protagonist's role[…] improvising possible solutions to the problem that is being staged… Forum theater perfectly fits the definition of simulation: it models a system (the oppressive situation) through another system (the play)[…]
+
     Simulations are laboratories for experimentation where user action is not only allowed but also required. Coherence from session to session is simply not a requirement in the game world… {{Y|The key trait of simulational media is that it relies on rules: rules that can be manipulated, accepted, rejected and even contested}}."
 
                         - Gonzalo Frasca, Simulation versus Narrative
         </page>
         <page>
                             {{M|Example: Commerce}}
+        </page>
+        <page>
+                          {{M|Ideology in simulations}}
+
+
+By purporting to model phenomena like ability, social standing, and trade, the rules that govern this simulation generate meaning. {{Y|Simulation rules are inescapably ideological}}.
+
+
+Frasca identifies four ideological levels on which simulations operate:
+        </page>
+        <page>
+                          {{M|Ideology in simulations}}
+
+
+By purporting to model phenomena like ability, social standing, and trade, the rules that govern this simulation generate meaning. {{Y|Simulation rules are inescapably ideological}}.
+
+
+Frasca identifies four ideological levels on which simulations operate:
+
+{{Y|1.}} {{W|Representation}}, such as {{Y|the characteristics of objects and characters}}, which is also found in traditional narrative media;
+        </page>
+        <page>
+                          {{M|Ideology in simulations}}
+
+
+By purporting to model phenomena like ability, social standing, and trade, the rules that govern this simulation generate meaning. {{Y|Simulation rules are inescapably ideological}}.
+
+
+Frasca identifies four ideological levels on which simulations operate:
+
+{{Y|1.}} {{W|Representation}}, such as {{Y|the characteristics of objects and characters}}, which is also found in traditional narrative media;
+
+{{Y|2.}} {{O|Manipulation rules}}, or {{Y|what the player is able to do}} within the simulation;
+        </page>
+        <page>
+                          {{M|Ideology in simulations}}
+
+
+By purporting to model phenomena like ability, social standing, and trade, the rules that govern this simulation generate meaning. {{Y|Simulation rules are inescapably ideological}}.
+
+
+Frasca identifies four ideological levels on which simulations operate:
+
+{{Y|1.}} {{W|Representation}}, such as {{Y|the characteristics of objects and characters}}, which is also found in traditional narrative media;
+
+{{Y|2.}} {{O|Manipulation rules}}, or {{Y|what the player is able to do}} within the simulation;
+
+{{Y|3.}} {{R|Goal rules}}, or {{Y|what the player must do in order to win}} the game; and,
         </page>
         <page>
                           {{M|Ideology in simulations}}
@@ -134,13 +251,51 @@ Frasca identifies four ideological levels on which simulations operate:
             {{M|Radical transformation on four levels in}} {{W|Caves of Qud}}
 
 
+{{M|Meta-rules}}: Modifying the game using XML files.
+        </page>
+        <page>
+            {{M|Radical transformation on four levels in}} {{W|Caves of Qud}}
+
+
+{{M|Meta-rules}}: Modifying the game using XML files.
+
+{{W|Representation}}: Reshaped creatures, landscapes, and social relations.
+        </page>
+        <page>
+            {{M|Radical transformation on four levels in}} {{W|Caves of Qud}}
+
+
+{{M|Meta-rules}}: Modifying the game using XML files.
+
+{{W|Representation}}: Reshaped creatures, landscapes, and social relations.
+
+{{O|Manipulation rules}}: Rule systems for body modification such as mutation, cybernetic surgery, infection, amputation, and even cooking!
+        </page>
+        <page>
+            {{M|Radical transformation on four levels in}} {{W|Caves of Qud}}
+
+
+{{M|Meta-rules}}: Modifying the game using XML files.
+
 {{W|Representation}}: Reshaped creatures, landscapes, and social relations.
 
 {{O|Manipulation rules}}: Rule systems for body modification such as mutation, cybernetic surgery, infection, amputation, and even cooking!
 
 {{R|Goal rules}}: Join a group of mutant tinkerers and overcome a violent cult of purity, normality, and sameness by force.
+        </page>
+        <page>
+                            {{M|Conclusion}}
 
-{{M|Meta-rules}}: Modifying the game using XML files.
+
+The meta-rule capacity to easily modify {{W|Caves of Qud}} using XML files is not just a pragmatic content authoring tool or player creativity sandbox - it is an {{Y|elaboration on the artistic theme of openness to radical transformation that is only possible in the interactive simulation medium}}.
+        </page>
+        <page>
+                            {{M|Conclusion}}
+
+
+The meta-rule capacity to easily modify {{W|Caves of Qud}} using XML files is not just a pragmatic content authoring tool or player creativity sandbox - it is an {{Y|elaboration on the artistic theme of openness to radical transformation that is only possible in the interactive simulation medium}}.
+
+It is tied together with {{Y|diversity, risky contested autonomy, and body modification through the multiple participatory layers of simulational media}}, in addition to representational and genre elements.
         </page>
         <page>
                             {{M|Conclusion}}
@@ -150,15 +305,16 @@ The meta-rule capacity to easily modify {{W|Caves of Qud}} using XML files is no
 
 It is tied together with {{Y|diversity, risky contested autonomy, and body modification through the multiple participatory layers of simulational media}}, in addition to representational and genre elements.
 
-The online community that develops and shares modifications has grown around these values of the simulation model. Participatory performance is a rehearsal for real social relations.
+The online community that develops and shares modifications has grown around these values of the simulation model. {{Y|Participatory performance is a rehearsal for real social relations}}.
         </page>
         <page>
                                  {{nectar|GAME OVER}}
 
-                                    &#xc4;&#xc4;&#xc4;
+                                    {{M|&#x03;&#x03;&#x03;}}
 
 Citations:
 &#x07; Frasca, Gonzalo. “Simulation versus Narrative: Introduction to Ludology.” {{Y|The Video Game Theory Reader}}, Routledge, 2004.
+
 
 Thanks to:
 &#x07; THINC Lab for research support: {{B|uoguelph.ca/arts/dhguelph/thinc}}
@@ -167,6 +323,7 @@ Thanks to:
 
 
 Slideshow data files: {{B|https://github.com/visceralfield/gradsymposium2024}}
+
 
 Contact: {{B|lthomp15@uoguelph.ca}}
         </page>
